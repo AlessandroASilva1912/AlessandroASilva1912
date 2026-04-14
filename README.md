@@ -24,7 +24,7 @@ Atuo como técnico de suporte em TI, com experiência em sustentação de sistem
 ## 📌 Projetos em destaque
 - Sistema de Ordens de Serviço (OS Manager)
 - ## 📷 Projeto em ação
-  ![1](https://github.com/user-attachments/assets/a126d114-72fc-4f3d-a2d5-75cedd7f246f)
+![1](https://github.com/user-attachments/assets/a126d114-72fc-4f3d-a2d5-75cedd7f246f)
 <img width="1904" height="821" alt="os_manager1" src="https://github.com/user-attachments/assets/62307b82-bcf0-489d-8c4c-3a06bc8637c2" />
 <img width="1901" height="819" alt="os_manager" src="https://github.com/user-attachments/assets/0e6bac0a-d3e4-4ef7-8448-267b3da6694a" />
 
