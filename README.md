@@ -23,7 +23,9 @@ Atuo como técnico de suporte em TI, com experiência em sustentação de sistem
 
 ## 📌 Projetos em destaque
 - Sistema de Ordens de Serviço (OS Manager)
+- ## 📷 Projetos em ação
 - Controle de Estoque
+- ## 📷 Projetos em ação
 
 ---
 
