@@ -28,5 +28,5 @@ Atuo como técnico de suporte em TI, com experiência em sustentação de sistem
 ---
 
 ## 📫 Contato
-- LinkedIn: [(coloca aqui)](https://www.linkedin.com/in/alessandro-alves-264b31196/)
+- LinkedIn: https://www.linkedin.com/in/alessandro-alves-264b31196/
 - Email: alessandro.alves21017@outlook.com
