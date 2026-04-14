@@ -1,16 +1,32 @@
-## Hi there 👋
+# Alessandro Alves da Silva
 
-<!--
-**AlessandroASilva1912/AlessandroASilva1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Suporte de TI | Automação e Desenvolvimento com Python
 
-Here are some ideas to get you started:
+Atuo como técnico de suporte em TI, com experiência em sustentação de sistemas, monitoramento e análise de incidentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+- Python (Flask)
+- SQLite / Banco de Dados
+- HTML, CSS, JavaScript
+- Automação de processos
+
+---
+
+## 💼 Experiência prática
+- Monitoramento de servidores
+- Gestão de chamados (ECM)
+- Suporte técnico remoto
+
+---
+
+## 📌 Projetos em destaque
+- Sistema de Ordens de Serviço (OS Manager)
+- Controle de Estoque
+
+---
+
+## 📫 Contato
+- LinkedIn: [(coloca aqui)](https://www.linkedin.com/in/alessandro-alves-264b31196/)
+- Email: alessandro.alves21017@outlook.com
