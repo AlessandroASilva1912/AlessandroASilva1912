@@ -12,6 +12,10 @@ Atuo como técnico de suporte em TI, com experiência em sustentação de sistem
 - HTML, CSS, JavaScript
 - Automação de processos
 
+### ⚙️ Complementares
+- C#
+- .NET
+
 ---
 
 ## 💼 Experiência prática
