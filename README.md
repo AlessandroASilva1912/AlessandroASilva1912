@@ -78,13 +78,6 @@ Sistema completo com dashboard, controle de produtos, movimentações e alertas 
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandroASilva1912&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroASilva1912&layout=compact)
-
----
-
 ## 📫 Contato
 
 - 💼 LinkedIn: [alessandro-alves](https://www.linkedin.com/in/alessandro-alves-264b31196/)
