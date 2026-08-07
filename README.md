@@ -23,9 +23,6 @@ Técnico de suporte em TI com experiência em sustentação de sistemas, monitor
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Complementares**
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
@@ -49,14 +46,27 @@ Técnico de suporte em TI com experiência em sustentação de sistemas, monitor
 
 ---
 
+## 🎓 Certificações e Cursos
+
+| Instituição | Curso | Carga Horária |
+|---|---|---|
+| FIAP | Gestão de Infraestrutura de TI | 20h |
+| FIAP | Python | 80h |
+| Alura | C# e Orientação a Objetos | 41h |
+| Alura | Front-End (HTML e CSS) | 181h |
+| Udemy | Banco de Dados e SQL | 58h |
+| Udemy | Desenvolvedor Web Completo | 48h |
+| Preditiva | Excel para Análise de Dados | 12h |
+| DIO | .NET com GitHub Copilot | 71h |
+
+---
+
 ## 📌 Projetos em destaque
 
 ### 🛠️ Sistema de Ordens de Serviço (OS Manager)
 Sistema web para gerenciamento de ordens de serviço, com controle de atendimentos, status e histórico.
 
 <img width="800" alt="os_manager" src="https://github.com/user-attachments/assets/0e6bac0a-d3e4-4ef7-8448-267b3da6694a" />
-
-> 🔗 [Ver repositório](#) 
 
 ### 📦 Controle de Estoque
 Sistema completo com dashboard, controle de produtos, movimentações e alertas de estoque.
@@ -66,14 +76,12 @@ Sistema completo com dashboard, controle de produtos, movimentações e alertas 
   <img width="400" alt="estoque-2" src="https://github.com/user-attachments/assets/af6c641d-efc5-4ec5-85c0-178c05332d61" />
 </p>
 
-> 🔗 [Ver repositório](#)
-
 ---
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandroASilva1912&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroASilva1912&layout=compact)
 
 ---
 
@@ -81,5 +89,3 @@ Sistema completo com dashboard, controle de produtos, movimentações e alertas 
 
 - 💼 LinkedIn: [alessandro-alves](https://www.linkedin.com/in/alessandro-alves-264b31196/)
 - 📧 Email: alessandro.alves21017@outlook.com
-
-</div>
