@@ -4,7 +4,7 @@
 
 ### 💻 Suporte de TI | Automação e Desenvolvimento com Python
 
-Técnico de suporte em TI com experiência em sustentação de sistemas, monitoramento e análise de incidentes — hoje expandindo para automação de processos e desenvolvimento de sistemas internos.
+Técnico de suporte em TI com experiência em sustentação de sistemas, monitoramento e análise de incidentes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-alves-264b31196/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alessandro.alves21017@outlook.com)
