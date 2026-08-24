@@ -19,7 +19,7 @@ Técnico de suporte em TI com experiência em sustentação de sistemas, monitor
 
 - 🖥️ Técnico de suporte em TI, com foco em sustentação de sistemas e monitoramento de ambientes críticos
 - 🐍 Desenvolvendo sistemas internos com **Python** e **Flask**
-- 🗄️ Experiência com banco de dados **SQL Server**
+- 🗄️ Experiência com banco de dados **SQL Server**, **MySQL** e **PostgreSQL**
 - 🌐 Também atuo com **C# / .NET** e front-end (**HTML, CSS, JavaScript**)
 - 🎯 Status: Aberto a oportunidades como **Suporte de TI / Desenvolvedor**
 
@@ -43,6 +43,8 @@ Técnico de suporte em TI com experiência em sustentação de sistemas, monitor
 **Banco de Dados**
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
