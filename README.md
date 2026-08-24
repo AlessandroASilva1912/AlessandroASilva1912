@@ -99,8 +99,8 @@ Sistema completo com dashboard, controle de produtos, movimentações e alertas 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlessandroASilva1912&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroASilva1912&&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
 
 </div>
 
