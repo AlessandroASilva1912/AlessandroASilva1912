@@ -1,34 +1,51 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Alessandro
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Alessandro;Suporte+de+TI+%7C+Automa%C3%A7%C3%A3o+%26+Python;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### 💻 Suporte de TI | Automação e Desenvolvimento com Python
 
 Técnico de suporte em TI com experiência em sustentação de sistemas, monitoramento e análise de incidentes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-alves-264b31196/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alessandro.alves21017@outlook.com)
+📍 Brasil &nbsp;|&nbsp; 🔍 Em busca de novas oportunidades!
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-alves-264b31196/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandro.alves21017@outlook.com)
 
 </div>
 
 ---
 
-## 🚀 Tecnologias
+### 📖 Sobre mim
 
-**Principais**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+- 🖥️ Técnico de suporte em TI, com foco em sustentação de sistemas e monitoramento de ambientes críticos
+- 🐍 Desenvolvendo automações e sistemas internos com **Python**, **Flask** e **SQLite**
+- 🌐 Também atuo com **C# / .NET** e front-end (**HTML, CSS, JavaScript**)
+- 🎯 Status: Aberto a oportunidades como **Suporte de TI / Desenvolvedor**, com interesse em automação de processos
 
 ---
 
-## 💼 Experiência prática
+### 🚀 Tecnologias e Ferramentas
+
+**Linguagens & Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Banco de Dados**
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### 💼 Experiência prática
 
 - 🖥️ Monitoramento de servidores e aplicações críticas, com análise de disponibilidade e identificação de falhas
 - 🎫 Gestão de chamados em ambiente ECM (triagem, validação e direcionamento de incidentes)
@@ -38,7 +55,7 @@ Técnico de suporte em TI com experiência em sustentação de sistemas, monitor
 
 ---
 
-## 🎯 Foco atual
+### 🎯 Foco atual
 
 - 🔧 Automação de processos corporativos
 - 🖥️ Desenvolvimento de sistemas internos
@@ -46,7 +63,7 @@ Técnico de suporte em TI com experiência em sustentação de sistemas, monitor
 
 ---
 
-## 🎓 Certificações e Cursos
+### 🎓 Certificações e Cursos
 
 | Instituição | Curso | Carga Horária |
 |---|---|---|
@@ -61,14 +78,14 @@ Técnico de suporte em TI com experiência em sustentação de sistemas, monitor
 
 ---
 
-## 📌 Projetos em destaque
+### 📌 Projetos em destaque
 
-### 🛠️ Sistema de Ordens de Serviço (OS Manager)
+**🛠️ Sistema de Ordens de Serviço (OS Manager)**
 Sistema web para gerenciamento de ordens de serviço, com controle de atendimentos, status e histórico.
 
 <img width="800" alt="os_manager" src="https://github.com/user-attachments/assets/0e6bac0a-d3e4-4ef7-8448-267b3da6694a" />
 
-### 📦 Controle de Estoque
+**📦 Controle de Estoque**
 Sistema completo com dashboard, controle de produtos, movimentações e alertas de estoque.
 
 <p>
@@ -78,7 +95,22 @@ Sistema completo com dashboard, controle de produtos, movimentações e alertas 
 
 ---
 
-## 📫 Contato
+### 📊 Minhas Estatísticas
 
-- 💼 LinkedIn: [alessandro-alves](https://www.linkedin.com/in/alessandro-alves-264b31196/)
-- 📧 Email: alessandro.alves21017@outlook.com
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-alves-264b31196/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandro.alves21017@outlook.com)
+
+</div>
