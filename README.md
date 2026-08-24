@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Alessandro;Suporte+de+TI+%7C+Automa%C3%A7%C3%A3o+%26+Python;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Alessandro;Suporte+de+TI+%7C+Desenvolvedor+Python;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 💻 Suporte de TI | Automação e Desenvolvimento com Python
+### 💻 Suporte de TI | Desenvolvedor Python
 
 Técnico de suporte em TI com experiência em sustentação de sistemas, monitoramento e análise de incidentes.
 
@@ -18,9 +18,10 @@ Técnico de suporte em TI com experiência em sustentação de sistemas, monitor
 ### 📖 Sobre mim
 
 - 🖥️ Técnico de suporte em TI, com foco em sustentação de sistemas e monitoramento de ambientes críticos
-- 🐍 Desenvolvendo automações e sistemas internos com **Python**, **Flask** e **SQLite**
+- 🐍 Desenvolvendo sistemas internos com **Python** e **Flask**
+- 🗄️ Experiência com banco de dados **SQL Server**
 - 🌐 Também atuo com **C# / .NET** e front-end (**HTML, CSS, JavaScript**)
-- 🎯 Status: Aberto a oportunidades como **Suporte de TI / Desenvolvedor**, com interesse em automação de processos
+- 🎯 Status: Aberto a oportunidades como **Suporte de TI / Desenvolvedor**
 
 ---
 
@@ -41,7 +42,7 @@ Técnico de suporte em TI com experiência em sustentação de sistemas, monitor
 
 **Banco de Dados**
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
@@ -51,15 +52,15 @@ Técnico de suporte em TI com experiência em sustentação de sistemas, monitor
 - 🎫 Gestão de chamados em ambiente ECM (triagem, validação e direcionamento de incidentes)
 - 🔄 Atuação no ciclo completo de chamados: análise, coleta de evidências e encerramento
 - 🛠️ Suporte técnico remoto e diagnóstico de problemas em sistemas corporativos
-- ⚙️ Desenvolvimento de automações e sistemas para otimização de rotinas operacionais
+- ⚙️ Desenvolvimento de sistemas para otimização de rotinas operacionais
 
 ---
 
 ### 🎯 Foco atual
 
-- 🔧 Automação de processos corporativos
 - 🖥️ Desenvolvimento de sistemas internos
 - 📈 Otimização de rotinas de suporte técnico
+- 🎓 Aprofundamento em Python e banco de dados
 
 ---
 
@@ -99,8 +100,8 @@ Sistema completo com dashboard, controle de produtos, movimentações e alertas 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlessandroASilva1912&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroASilva1912&&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
 
 </div>
 
