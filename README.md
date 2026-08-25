@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Alessandro;Desenvolvedor+Python+%7C+Backend+J%C3%BAnior;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Alessandro;Desenvolvedor+Web+J%C3%BAnior;Python+%7C+C%23%2F.NET;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 💻 Desenvolvedor Python | Backend Júnior
+### 💻 Desenvolvedor Web Júnior | Python & C#/.NET
 
-Profissional de TI com experiência em suporte e sustentação de sistemas corporativos, em transição para desenvolvimento backend.
+Profissional de TI com experiência em suporte e sustentação de sistemas corporativos, em transição para desenvolvimento web.
 
 📍 Brasil &nbsp;|&nbsp; 🔍 Em busca de novas oportunidades!
 
@@ -18,9 +18,9 @@ Profissional de TI com experiência em suporte e sustentação de sistemas corpo
 ### 📖 Sobre mim
 
 - 🖥️ Profissional de TI com experiência em suporte técnico e sustentação de sistemas corporativos
-- 🎯 Em transição/expansão de carreira: de suporte para **Desenvolvimento Backend**
-- 🐍 Área principal de desenvolvimento: **Python**, **Flask** e **SQL**
-- 🌐 Área complementar: **C# / .NET** e front-end (**HTML, CSS, JavaScript**)
+- 🎯 Em transição/expansão de carreira: de suporte para **Desenvolvimento Web**
+- 🐍 Conhecimento em **Python** e **Flask**, com prática em **SQL**
+- 🌐 Conhecimento também em **C# / .NET** e front-end (**HTML, CSS, JavaScript**)
 - 💡 Vejo minha experiência em suporte como diferencial: entendo sistemas em produção, tratamento de falhas e isso reflete em código mais robusto
 
 ---
@@ -69,17 +69,17 @@ Profissional de TI com experiência em suporte e sustentação de sistemas corpo
 Experiência prática obtida através de projetos próprios e estudo aplicado:
 
 - 🐍 Desenvolvimento de aplicações web com **Python** e **Flask**
+- 🌐 Estudo aplicado de **C#/.NET** e front-end (**HTML, CSS, JavaScript**)
 - 🗄️ Integração de aplicações com banco de dados relacional
 - 🖥️ Desenvolvimento de sistemas internos para controle e gestão de processos
-- 📚 Estudo aplicado de **C#/.NET** e front-end (**HTML, CSS, JavaScript**)
 
 ---
 
 ### 🎯 Foco atual
 
-- 🐍 Aprofundamento em Python, Flask e SQL
-- 📈 Construção de projetos backend para portfólio
-- 🎓 Consolidação da transição para Desenvolvedor Backend Júnior
+- 🌐 Aprofundamento em desenvolvimento web (Python/Flask e C#/.NET)
+- 📈 Construção de projetos para portfólio
+- 🎓 Consolidação da transição para Desenvolvedor Web Júnior
 
 ---
 
@@ -137,8 +137,9 @@ Projetos planejados para reforçar a transição para desenvolvimento backend, c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlessandroASilva1912&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroASilva1912&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Reposit%C3%B3rios%20p%C3%BAblicos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlessandroASilva1912&style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/AlessandroASilva1912?style=for-the-badge&logo=github&color=blue&label=Seguidores)
+![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlessandroASilva1912%2Fstarred&style=for-the-badge&logo=github)
 
 </div>
 
