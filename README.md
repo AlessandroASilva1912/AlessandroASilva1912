@@ -6,7 +6,7 @@
 
 Profissional de TI com experiência em suporte e sustentação de sistemas corporativos, em transição para desenvolvimento backend.
 
-📍 Brasil &nbsp;
+📍 Brasil &nbsp;|&nbsp; 🔍 Em busca de novas oportunidades!
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-alves-264b31196/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandro.alves21017@outlook.com)
@@ -137,7 +137,7 @@ Projetos planejados para reforçar a transição para desenvolvimento backend, c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlessandroASilva1912&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlessandroASilva1912&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroASilva1912&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
 
 </div>
