@@ -8,51 +8,45 @@ Profissional de TI com experiência em suporte e sustentação de sistemas corpo
 
 📍 Brasil &nbsp;|&nbsp; 🔍 Em busca de novas oportunidades!
 
+[**Ver portfólio**](https://alessandroasilva1912.github.io/portfolio/)
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-alves-264b31196/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandro.alves21017@outlook.com)
 
 </div>
 
----
 
-### 📖 Sobre mim
+## Projetos em destaque
 
-- 🖥️ Profissional de TI com experiência em suporte técnico e sustentação de sistemas corporativos
-- 🎯 Em transição/expansão de carreira: de suporte para **Desenvolvimento Web**
-- 🐍 Conhecimento em **Python** e **Flask**, com prática em **SQL**
-- 🌐 Conhecimento também em **C# / .NET** e front-end (**HTML, CSS, JavaScript**)
-- 💡 Vejo minha experiência em suporte como diferencial: entendo sistemas em produção, tratamento de falhas e isso reflete em código mais robusto
+Construo aplicações para organizar processos, validar regras de negócio e facilitar a operação de sistemas.
 
----
+| Projeto | Problema e funcionalidades | Tecnologias |
+|---|---|---|
+| [AgendaSystem](https://github.com/AlessandroASilva1912/AgendaSystem) | Agendamento com checagem de conflitos, expediente e permissões de administrador e cliente | C#, ASP.NET Core MVC, EF Core, SQLite |
+| [OS Manager](https://github.com/AlessandroASilva1912/OS-Manager-Sistema-de-Ordens-de-Servi-o) | Gestão de ordens de serviço, histórico por máquina e indicadores de atendimento | Python, Flask, SQLite, JavaScript |
+| [StockPro](https://github.com/AlessandroASilva1912/Gest-o_de_Estoque) | Controle de produtos, entradas e saídas, alertas de estoque e acesso por perfil | Python, Flask, SQLite, JavaScript |
 
-### 🚀 Tecnologias e Ferramentas
+As instruções para executar cada aplicação estão no README do respectivo repositório.
 
-**Backend & Linguagens**
+<details>
+<summary>Veja algumas telas dos projetos</summary>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**OS Manager**
 
-**Front-end**
+<img width="800" alt="Dashboard de ordens de serviço do OS Manager" src="https://github.com/user-attachments/assets/0e6bac0a-d3e4-4ef7-8448-267b3da6694a" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**StockPro**
 
-**Banco de Dados**
+<img width="600" alt="Painel do sistema de controle de estoque StockPro" src="https://github.com/user-attachments/assets/67b4d2a6-1904-4f5d-a187-ec3baf65edbd" />
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+</details>
 
-**Ferramentas**
+## Tecnologias principais
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
+- **Backend:** Python, Flask e C#/.NET.
+- **Front-end:** HTML, CSS e JavaScript.
+- **Dados:** SQL e SQLite nos projetos em destaque; estudos em SQL Server, MySQL e PostgreSQL.
+- **Ferramentas:** Git, GitHub e VS Code.
 
 ### 💼 Experiência profissional
 
@@ -62,94 +56,18 @@ Profissional de TI com experiência em suporte e sustentação de sistemas corpo
 - 🔄 Análise de incidentes, coleta de evidências e encerramento de chamados
 - 🛠️ Diagnóstico de problemas e suporte técnico remoto
 
----
+## Formação e estudos
 
-### 👨‍💻 Desenvolvimento
+**Análise e Desenvolvimento de Sistemas — Faculdade Focus**
 
-Experiência prática obtida através de projetos próprios e estudo aplicado:
+Estudos complementares em Python, C# e orientação a objetos, .NET, desenvolvimento web e bancos de dados, com cursos da FIAP, Alura, DIO e Udemy.
 
-- 🐍 Desenvolvimento de aplicações web com **Python** e **Flask**
-- 🌐 Estudo aplicado de **C#/.NET** e front-end (**HTML, CSS, JavaScript**)
-- 🗄️ Integração de aplicações com banco de dados relacional
-- 🖥️ Desenvolvimento de sistemas internos para controle e gestão de processos
+[Currículo e formação detalhada](https://alessandroasilva1912.github.io/portfolio/curriculo_page.html)
 
----
+## Foco atual
 
-### 🎯 Foco atual
+Aprofundar o desenvolvimento web com Python/Flask e C#/.NET e evoluir os projetos do portfólio, conectando minha experiência em suporte à construção de software.
 
-- 🌐 Aprofundamento em desenvolvimento web (Python/Flask e C#/.NET)
-- 📈 Construção de projetos para portfólio
-- 🎓 Consolidação da transição para Desenvolvedor Web Júnior
+## Contato
 
----
-
-### 🎓 Formação e Certificações
-
-**Análise e Desenvolvimento de Sistemas** — Faculdade Focus
-
-| Instituição | Curso | Carga Horária |
-|---|---|---|
-| FIAP | Python | 80h |
-| FIAP | Gestão de Infraestrutura de TI | 20h |
-| Udemy | Banco de Dados e SQL | 58h |
-| Udemy | Desenvolvedor Web Completo | 48h |
-| Alura | C# e Orientação a Objetos | 41h |
-| Alura | Front-End (HTML e CSS) | 181h |
-| DIO | .NET com GitHub Copilot | 71h |
-| Preditiva | Excel para Análise de Dados | 12h |
-
----
-
-### 📌 Projetos em destaque
-
-**🛠️ Sistema de Ordens de Serviço (OS Manager)**
-Sistema web para gerenciamento de ordens de serviço em ambientes industriais, com dashboard em tempo real, histórico por máquina, atribuição de responsáveis e exportação de relatórios em Excel.
-
-🔗 [Repositório](https://github.com/AlessandroASilva1912/OS-Manager-Sistema-de-Ordens-de-Servi-o)
-
-<img width="800" alt="os_manager" src="https://github.com/user-attachments/assets/0e6bac0a-d3e4-4ef7-8448-267b3da6694a" />
-
-**📦 Controle de Estoque**
-Sistema completo com dashboard, controle de produtos, movimentações e alertas de estoque.
-Tecnologias: Python, Flask, SQLite, JavaScript.
-
-🔗 [Repositório](https://github.com/AlessandroASilva1912/Gest-o_de_Estoque)
-
-<p>
-  <img width="400" alt="estoque-1" src="https://github.com/user-attachments/assets/67b4d2a6-1904-4f5d-a187-ec3baf65edbd" />
-  <img width="400" alt="estoque-2" src="https://github.com/user-attachments/assets/af6c641d-efc5-4ec5-85c0-178c05332d61" />
-</p>
-
----
-
-### 🚧 Próximos projetos
-
-Projetos planejados para reforçar a transição para desenvolvimento backend, conectando a experiência em suporte com a construção de software:
-
-- 🎫 **Sistema Help Desk / Service Desk** — aplicando diretamente a vivência com gestão de chamados
-- 📡 **Monitor de infraestrutura** — leitura de status de serviços/servidores, alinhado à experiência em monitoramento
-- 🔌 **API REST com Python/Flask** — consolidação de backend e boas práticas de API
-- ⚙️ **Sistema de automação de tarefas** — otimização de rotinas operacionais
-
----
-
-### 📊 Minhas Estatísticas
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Reposit%C3%B3rios%20p%C3%BAblicos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlessandroASilva1912&style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/github/followers/AlessandroASilva1912?style=for-the-badge&logo=github&color=blue&label=Seguidores)
-![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlessandroASilva1912%2Fstarred&style=for-the-badge&logo=github)
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-alves-264b31196/)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandro.alves21017@outlook.com)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/alessandro-alves-264b31196/) · [E-mail](mailto:alessandro.alves21017@outlook.com) · [Portfólio](https://alessandroasilva1912.github.io/portfolio/)
