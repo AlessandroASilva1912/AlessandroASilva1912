@@ -1,37 +1,41 @@
-# Olá, eu sou o Alessandro Alves
+<div align="center">
 
-**Testes de software (QA) · Sustentação de sistemas · Desenvolvimento web**
+# Olá, eu sou o Alessandro Alves 👋
 
-Atuo como **Técnico de Suporte II na TIVIT** desde maio de 2021, na sustentação de sistemas corporativos ECM. No dia a dia, investigo incidentes, documento evidências técnicas e apoio atividades de testes de software, registrando e acompanhando bugs no **Azure DevOps**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1200&amp;color=0077B5&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Sustenta%C3%A7%C3%A3o+de+sistemas;Testes+de+software+%7C+Azure+DevOps;Desenvolvimento+web+%7C+Python+e+.NET" alt="Sustentação de sistemas, testes de software e desenvolvimento web" />
 
-Curso **Análise e Desenvolvimento de Sistemas** na Faculdade Focus e desenvolvo aplicações web com **Python/Flask** e **C#/.NET**. Meu foco é crescer em qualidade de software, aplicando a experiência de investigar falhas em produção à elaboração de testes e à validação de regras de negócio.
+**Técnico de Suporte II na TIVIT · Estudante de Análise e Desenvolvimento de Sistemas**
 
-[Portfólio](https://alessandroasilva1912.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/alessandro-alves-264b31196/) · [E-mail](mailto:alessandro.alves21017@outlook.com)
+[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-24292F?style=for-the-badge&logo=github&logoColor=white)](https://alessandroasilva1912.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge)](https://www.linkedin.com/in/alessandro-alves-264b31196/)
+[![E-mail](https://img.shields.io/badge/E--MAIL-0067B8?style=for-the-badge)](mailto:alessandro.alves21017@outlook.com)
 
-## Experiência na TIVIT
+</div>
 
-- Apoio atividades de testes de software e registro e acompanho bugs no Azure DevOps.
-- Investigo incidentes em sistemas ECM, valido ocorrências e documento evidências para facilitar o acompanhamento das falhas.
-- Monitoro sistemas críticos, acompanho SLAs e priorizo chamados conforme o impacto na operação.
+## 💼 Minha trajetória
 
-## Conhecimentos em QA
+Atuo na **TIVIT** desde maio de 2021, na sustentação de sistemas corporativos ECM. Investigo incidentes, documento evidências técnicas e acompanho chamados conforme o impacto na operação. Também apoio atividades de testes de software e **registro e acompanho bugs no Azure DevOps**.
 
-- **Testes de software:** conhecimentos básicos em elaboração e execução de cenários e casos de teste e em testes funcionais, regressivos e exploratórios.
+No portfólio, desenvolvo aplicações web com **Python/Flask** e **C#/.NET** para organizar processos como agendamentos, ordens de serviço e controle de estoque.
+
+## 🧪 Testes e qualidade de software
+
+- **Testes:** conhecimentos básicos em elaboração e execução de cenários e casos de teste e em testes funcionais, regressivos e exploratórios.
 - **APIs e dados:** noções de testes de API com Postman e SQL básico para validação de dados.
-- **Métodos e ferramentas:** noções de Scrum e Kanban e conhecimentos iniciais em automação de testes e ferramentas de IA aplicadas à qualidade.
+- **Métodos e estudos:** noções de Scrum e Kanban e conhecimentos iniciais em automação de testes e IA aplicada à qualidade de software.
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
-| Projeto | O que a aplicação resolve | Tecnologias |
+| Projeto | O que faz | Tecnologias |
 | --- | --- | --- |
-| [AgendaSystem](https://github.com/AlessandroASilva1912/AgendaSystem) | Organiza agendamentos, verifica conflitos de horário e regras de expediente e separa permissões de administradores e clientes. | C#, ASP.NET Core MVC, EF Core, SQLite |
-| [OS Manager](https://github.com/AlessandroASilva1912/OS-Manager-Sistema-de-Ordens-de-Servi-o) | Centraliza ordens de serviço e permite consultar o histórico por máquina e acompanhar indicadores de atendimento. | Python, Flask, SQLite, JavaScript |
-| [StockPro](https://github.com/AlessandroASilva1912/Gest-o_de_Estoque) | Controla produtos, entradas e saídas, com alertas de estoque e permissões por perfil. | Python, Flask, SQLite, JavaScript |
+| [AgendaSystem](https://github.com/AlessandroASilva1912/AgendaSystem) | Verifica conflitos de horário e regras de expediente em agendamentos, com permissões para administradores e clientes. | C#, ASP.NET Core MVC, EF Core, SQLite |
+| [OS Manager](https://github.com/AlessandroASilva1912/OS-Manager-Sistema-de-Ordens-de-Servi-o) | Centraliza ordens de serviço, histórico por máquina e indicadores de atendimento. | Python, Flask, SQLite, JavaScript |
+| [StockPro](https://github.com/AlessandroASilva1912/Gest-o_de_Estoque) | Controla entradas e saídas de produtos, com alertas de estoque e acesso por perfil. | Python, Flask, SQLite, JavaScript |
 
-As instruções de instalação e execução estão no README de cada projeto.
+Cada repositório traz instruções para executar a aplicação.
 
 <details>
-<summary>Ver telas dos projetos</summary>
+<summary>📸 Ver telas dos projetos</summary>
 
 **OS Manager**
 
@@ -43,17 +47,18 @@ As instruções de instalação e execução estão no README de cada projeto.
 
 </details>
 
-## Tecnologias
+## 🛠️ Tecnologias que uso nos projetos
 
-- **Backend:** Python, Flask, C# e ASP.NET Core MVC.
-- **Front-end:** HTML, CSS e JavaScript.
-- **Dados:** SQL e SQLite nos projetos. Estudos em SQL Server, MySQL e PostgreSQL.
-- **Ferramentas:** Git, GitHub, Azure DevOps e VS Code.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-24292F?style=flat-square&logo=flask&logoColor=white)
+![C# e .NET](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Formação e cursos
+## 🎓 Formação
 
-- **Análise e Desenvolvimento de Sistemas** — Faculdade Focus. Em andamento, com previsão de conclusão em março de 2027.
-- **Testes Automáticos + Curso Completo de Teste de Software** — Udemy, concluído em outubro de 2026.
-- **Estudos complementares** em Python, C#, .NET e bancos de dados, com cursos da FIAP, Alura, DIO e Udemy.
+- **Análise e Desenvolvimento de Sistemas** · Faculdade Focus · Em andamento, com previsão de conclusão em março de 2027.
+- **Testes Automáticos + Curso Completo de Teste de Software** · Udemy · Concluído em outubro de 2026.
 
 [Ver currículo e formação detalhada](https://alessandroasilva1912.github.io/portfolio/curriculo_page.html)
